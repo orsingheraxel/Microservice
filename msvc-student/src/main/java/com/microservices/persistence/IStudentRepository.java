@@ -1,7 +1,6 @@
 package com.microservices.persistence;
 
 import com.microservices.entities.Student;
-import com.microservices.entities.StudentDTO;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
